@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -33,7 +33,5 @@
 
             <button type="submit">Enviar Datos</button>
         </div>
-    </form>
-    <script src="main.js"></script>
-</body>
-</html>
+  
+
